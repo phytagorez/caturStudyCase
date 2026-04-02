@@ -1,5 +1,7 @@
 ﻿using System;
 
+//Kelompok 8
+
 namespace PermainanCatur
 {
     public class BidakCatur
