@@ -1,6 +1,5 @@
-﻿using System;
-
-//Kelompok 8
+﻿//Kelompok 8
+using System;
 
 namespace PermainanCatur
 {
