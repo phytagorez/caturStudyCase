@@ -1,4 +1,5 @@
 ﻿//Kelompok 8
+//Penjelasan ada di repo github
 using System;
 
 namespace PermainanCatur
